@@ -1,2 +1,2 @@
 # Documentos-de-Excel
-Documentos de Word ejercicios, trabajos y proyectos en la plataforma de ofimática
+Documentos de Excel ejercicios, trabajos y proyectos en la plataforma de ofimática
